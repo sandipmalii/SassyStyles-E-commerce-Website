@@ -135,8 +135,7 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Sandip Mali**
-🎥 YouTube: San malli
-📧 Email: malisandip021email@example.com
+📧 Email: malisandip021@gmail.com
 🌐 Portfolio: sandipmali.com.np
 ---
 
